@@ -27,4 +27,31 @@ A simple yet powerful Flutter app to **download, view, manage, and delete PDF fi
 
 ### Installation
 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/princebhagat08/pdf_manager.git
+   cd pdf-managet
+   ```
+
+2. Get packages
+   ```bash
+   flutter pub get
+   ```
+
+3. Run the app
+   ```bash
+   flutter run
+   ```
+
+### Directory Stucture
+lib/
+├── main.dart
+├── screens/
+│   └── downloaded_reports_screen.dart
+├── services/
+│   └── file_service.dart
+├── widgets/
+│   └── pdf_tile.dart
+
+   
 
