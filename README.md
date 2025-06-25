@@ -44,7 +44,7 @@ A simple yet powerful Flutter app to **download, view, manage, and delete PDF fi
    ```
 
 ### Directory Stucture
-lib/
+```lib/
 ├── main.dart
 ├── screens/
 │   └── downloaded_reports_screen.dart
@@ -52,6 +52,6 @@ lib/
 │   └── file_service.dart
 ├── widgets/
 │   └── pdf_tile.dart
-
+```
    
 
