@@ -13,7 +13,7 @@ A simple yet powerful Flutter app to **download, view, manage, and delete PDF fi
 - ✅ Long-press selection for multiple files
 - 🗑️ Delete selected files with animated feedback
 - 📡 Works completely offline
-- 🔔 Snackbar confirmation on delete
+
 
 ---
 
